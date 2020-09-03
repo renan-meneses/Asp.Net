@@ -7,3 +7,12 @@
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Domain/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.csproj.CoreCompileInputs.cache
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Domain/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.dll
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Domain/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.deps.json
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.dll
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.csprojAssemblyReference.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.AssemblyInfoInputs.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.AssemblyInfo.cs
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.csproj.CoreCompileInputs.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.dll
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.pdb

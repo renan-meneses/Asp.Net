@@ -8,3 +8,14 @@
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.TagHelpers.output.cache
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.dll
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.csprojAssemblyReference.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.AssemblyInfoInputs.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.AssemblyInfo.cs
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.csproj.CoreCompileInputs.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.RazorAssemblyInfo.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.RazorAssemblyInfo.cs
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.TagHelpers.input.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.TagHelpers.output.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.dll
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/obj/Debug/netcoreapp2.2/AspnetCore.EFCore_Dapper.MVC.RazorCoreGenerate.cache

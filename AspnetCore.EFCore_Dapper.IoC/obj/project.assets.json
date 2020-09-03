@@ -3599,13 +3599,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.IoC/AspnetCore.EFCore_Dapper.IoC.csproj",
+      "projectUniqueName": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/AspnetCore.EFCore_Dapper.IoC.csproj",
       "projectName": "AspnetCore.EFCore_Dapper.IoC",
-      "projectPath": "/home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.IoC/AspnetCore.EFCore_Dapper.IoC.csproj",
+      "projectPath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/AspnetCore.EFCore_Dapper.IoC.csproj",
       "packagesPath": "/home/renan/.nuget/packages/",
-      "outputPath": "/home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.IoC/obj/",
+      "outputPath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+        "/home/renan/Documents/C#/projeto Asp/nuget.config",
         "/home/renan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
@@ -3617,11 +3618,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Data/AspnetCore.EFCore_Dapper.Data.csproj": {
-              "projectPath": "/home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Data/AspnetCore.EFCore_Dapper.Data.csproj"
+            "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/AspnetCore.EFCore_Dapper.Data.csproj": {
+              "projectPath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/AspnetCore.EFCore_Dapper.Data.csproj"
             },
-            "/home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Domain/AspnetCore.EFCore_Dapper.Domain.csproj": {
-              "projectPath": "/home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Domain/AspnetCore.EFCore_Dapper.Domain.csproj"
+            "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/AspnetCore.EFCore_Dapper.Domain.csproj": {
+              "projectPath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/AspnetCore.EFCore_Dapper.Domain.csproj"
             }
           }
         }

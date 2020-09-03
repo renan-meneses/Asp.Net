@@ -10,3 +10,15 @@
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Data/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.csproj.CopyComplete
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Data/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.dll
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Data/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.deps.json
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.dll
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.dll
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.csprojAssemblyReference.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.AssemblyInfoInputs.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.AssemblyInfo.cs
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.csproj.CoreCompileInputs.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.csproj.CopyComplete
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.dll
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.pdb

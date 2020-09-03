@@ -12,3 +12,17 @@
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.IoC/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.csproj.CopyComplete
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.IoC/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.dll
 /home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.IoC/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.deps.json
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.dll
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.dll
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.dll
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Data.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/bin/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.Domain.pdb
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.csprojAssemblyReference.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.AssemblyInfoInputs.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.AssemblyInfo.cs
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.csproj.CoreCompileInputs.cache
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.csproj.CopyComplete
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.dll
+/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.IoC/obj/Debug/netstandard2.0/AspnetCore.EFCore_Dapper.IoC.pdb

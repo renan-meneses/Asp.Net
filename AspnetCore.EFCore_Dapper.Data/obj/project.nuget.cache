@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "acz7I4pIflrAevJge9djDuwxYpPqX3ExxY6ziGcDXYlRxk8SclkPKqJIBnsSpmfiFGQhncT536UM0U251IFXDw==",
+  "dgSpecHash": "8KFp02qL9CrD1vxyw0tZxWCmDyltAWViSYx1RlCq4oB2/N0kq4Yax2wTiFRyJB9wp+hZ5FK2dbht+FNuXsO1Xw==",
   "success": true,
-  "projectFilePath": "/home/renan/Documents/C#/AspnetCore.EFCore_Dapper/AspnetCore.EFCore_Dapper.Data/AspnetCore.EFCore_Dapper.Data.csproj",
+  "projectFilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/AspnetCore.EFCore_Dapper.Data.csproj",
   "expectedPackageFiles": [
     "/home/renan/.nuget/packages/dapper/1.60.1/dapper.1.60.1.nupkg.sha512",
     "/home/renan/.nuget/packages/dapper.contrib/1.60.1/dapper.contrib.1.60.1.nupkg.sha512",
