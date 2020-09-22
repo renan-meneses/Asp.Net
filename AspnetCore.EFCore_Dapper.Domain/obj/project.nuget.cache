@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DDJ4zow0Lgo3pcjljH5qXq4/2djRo97Q2fj9DKGufWLKfjP2zmm8TsdShw2hSfaeUNvM/E4cREg4blAa2suy0Q==",
+  "dgSpecHash": "r1NieuAouT91gyp9z3ahNiy3+hoH7XekhD1gLKIChpza0rB8dl6xpYKRXFf3/Lscxt1UCSpUIUYtgCgFtNVStg==",
   "success": true,
-  "projectFilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/AspnetCore.EFCore_Dapper.Domain.csproj",
+  "projectFilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/AspnetCore.EFCore_Dapper.Domain.csproj",
   "expectedPackageFiles": [
     "/home/renan/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/renan/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"

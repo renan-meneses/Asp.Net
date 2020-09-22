@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/AspnetCore.EFCore_Dapper.MVC.csproj",
+  "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/AspnetCore.EFCore_Dapper.MVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -1872,183 +1872,183 @@
   "RootNamespace": "AspnetCore.EFCore_Dapper.MVC",
   "Documents": [
     {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorHibrido/Index.cshtml",
-      "TargetPath": "Views\\AutorHibrido\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorHibrido/Edit.cshtml",
-      "TargetPath": "Views\\AutorHibrido\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroHibrido/Create.cshtml",
-      "TargetPath": "Views\\LivroHibrido\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorHibrido/Details.cshtml",
-      "TargetPath": "Views\\AutorHibrido\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Livro/Details.cshtml",
-      "TargetPath": "Views\\Livro\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Livro/Delete.cshtml",
-      "TargetPath": "Views\\Livro\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Autor/Edit.cshtml",
-      "TargetPath": "Views\\Autor\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorDapper/Delete.cshtml",
-      "TargetPath": "Views\\AutorDapper\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorHibrido/Create.cshtml",
-      "TargetPath": "Views\\AutorHibrido\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroHibrido/Index.cshtml",
-      "TargetPath": "Views\\LivroHibrido\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Livro/Edit.cshtml",
-      "TargetPath": "Views\\Livro\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Autor/Delete.cshtml",
-      "TargetPath": "Views\\Autor\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorDapper/Create.cshtml",
-      "TargetPath": "Views\\AutorDapper\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroHibrido/Details.cshtml",
-      "TargetPath": "Views\\LivroHibrido\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Livro/Index.cshtml",
-      "TargetPath": "Views\\Livro\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroDapper/Edit.cshtml",
-      "TargetPath": "Views\\LivroDapper\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroDapper/Index.cshtml",
-      "TargetPath": "Views\\LivroDapper\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorDapper/Details.cshtml",
-      "TargetPath": "Views\\AutorDapper\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroDapper/Create.cshtml",
-      "TargetPath": "Views\\LivroDapper\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Autor/Index.cshtml",
-      "TargetPath": "Views\\Autor\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/_ViewImports.cshtml",
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorDapper/Edit.cshtml",
-      "TargetPath": "Views\\AutorDapper\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroDapper/Details.cshtml",
-      "TargetPath": "Views\\LivroDapper\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorHibrido/Delete.cshtml",
-      "TargetPath": "Views\\AutorHibrido\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Autor/Details.cshtml",
-      "TargetPath": "Views\\Autor\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Livro/Create.cshtml",
-      "TargetPath": "Views\\Livro\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroDapper/Delete.cshtml",
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroDapper/Delete.cshtml",
       "TargetPath": "Views\\LivroDapper\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Autor/Create.cshtml",
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Livro/Create.cshtml",
+      "TargetPath": "Views\\Livro\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorDapper/Edit.cshtml",
+      "TargetPath": "Views\\AutorDapper\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Autor/Create.cshtml",
       "TargetPath": "Views\\Autor\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroHibrido/Edit.cshtml",
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Livro/Details.cshtml",
+      "TargetPath": "Views\\Livro\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Autor/Details.cshtml",
+      "TargetPath": "Views\\Autor\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroHibrido/Index.cshtml",
+      "TargetPath": "Views\\LivroHibrido\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Autor/Delete.cshtml",
+      "TargetPath": "Views\\Autor\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorDapper/Details.cshtml",
+      "TargetPath": "Views\\AutorDapper\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorDapper/Delete.cshtml",
+      "TargetPath": "Views\\AutorDapper\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroHibrido/Edit.cshtml",
       "TargetPath": "Views\\LivroHibrido\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroHibrido/Delete.cshtml",
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Autor/Index.cshtml",
+      "TargetPath": "Views\\Autor\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorHibrido/Index.cshtml",
+      "TargetPath": "Views\\AutorHibrido\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Autor/Edit.cshtml",
+      "TargetPath": "Views\\Autor\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroHibrido/Details.cshtml",
+      "TargetPath": "Views\\LivroHibrido\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroDapper/Details.cshtml",
+      "TargetPath": "Views\\LivroDapper\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorHibrido/Create.cshtml",
+      "TargetPath": "Views\\AutorHibrido\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorHibrido/Delete.cshtml",
+      "TargetPath": "Views\\AutorHibrido\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroDapper/Index.cshtml",
+      "TargetPath": "Views\\LivroDapper\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorDapper/Create.cshtml",
+      "TargetPath": "Views\\AutorDapper\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroDapper/Edit.cshtml",
+      "TargetPath": "Views\\LivroDapper\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Livro/Edit.cshtml",
+      "TargetPath": "Views\\Livro\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Livro/Delete.cshtml",
+      "TargetPath": "Views\\Livro\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroHibrido/Delete.cshtml",
       "TargetPath": "Views\\LivroHibrido\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Livro/Index.cshtml",
+      "TargetPath": "Views\\Livro\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorDapper/Index.cshtml",
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroDapper/Create.cshtml",
+      "TargetPath": "Views\\LivroDapper\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorHibrido/Edit.cshtml",
+      "TargetPath": "Views\\AutorHibrido\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorHibrido/Details.cshtml",
+      "TargetPath": "Views\\AutorHibrido\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/LivroHibrido/Create.cshtml",
+      "TargetPath": "Views\\LivroHibrido\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/AutorDapper/Index.cshtml",
       "TargetPath": "Views\\AutorDapper\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.MVC/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],

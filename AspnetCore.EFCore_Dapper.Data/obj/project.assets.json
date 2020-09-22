@@ -3579,14 +3579,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/AspnetCore.EFCore_Dapper.Data.csproj",
+      "projectUniqueName": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/AspnetCore.EFCore_Dapper.Data.csproj",
       "projectName": "AspnetCore.EFCore_Dapper.Data",
-      "projectPath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/AspnetCore.EFCore_Dapper.Data.csproj",
+      "projectPath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/AspnetCore.EFCore_Dapper.Data.csproj",
       "packagesPath": "/home/renan/.nuget/packages/",
-      "outputPath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/obj/",
+      "outputPath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/renan/Documents/C#/projeto Asp/nuget.config",
+        "/home/renan/Documents/backend/C#/projeto Asp/nuget.config",
         "/home/renan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
@@ -3598,8 +3598,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/AspnetCore.EFCore_Dapper.Domain.csproj": {
-              "projectPath": "/home/renan/Documents/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/AspnetCore.EFCore_Dapper.Domain.csproj"
+            "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/AspnetCore.EFCore_Dapper.Domain.csproj": {
+              "projectPath": "/home/renan/Documents/backend/C#/projeto Asp/AspnetCore.EFCore_Dapper.Domain/AspnetCore.EFCore_Dapper.Domain.csproj"
             }
           }
         }
